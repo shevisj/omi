@@ -2,4 +2,4 @@
 
 #### --
 
-> This is an experimental feature. It may not work as expected. If you have any feedback, please let us know at team@basedhardware.com.
+> This is an experimental feature. It may not work as expected. If you have any feedback, please let us know at team@omi.me.

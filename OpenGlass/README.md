@@ -10,7 +10,7 @@ Turn any glasses into hackable smart glasses with less than $25 of off-the-shelf
 
 ## Want a Pre-built Version?
 
-We will ship a limited number of pre-built kits. Fill out the [interest form](https://basedhardware.com/openglass) to get notified.
+We will ship a limited number of pre-built kits. Fill out the [interest form](https://omi.me/openglass) to get notified.
 
 ## Community
 

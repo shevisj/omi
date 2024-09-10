@@ -12,7 +12,7 @@ DevKit 1 is a necklace form factor device that can be worn around the neck. It r
 
 ### Assembled Device
 
-If you didn't get the original [Friend DevKit](https://basedhardware.com/products/friend-dev) from the Kickstarter campaign, you can purchase it from the Based Hardware website.
+If you didn't get the original [Friend DevKit](https://omi.me/products/friend-dev) from the Kickstarter campaign, you can purchase it from the Based Hardware website.
 
 ### Parts
 

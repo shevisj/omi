@@ -268,11 +268,11 @@ class _SettingsPageState extends State<SettingsPage> {
                   const SizedBox(height: 16),
                   ListTile(
                     title: const Text('Need help?', style: TextStyle(color: Colors.white)),
-                    subtitle: const Text('team@basedhardware.com'),
+                    subtitle: const Text('team@omi.me'),
                     contentPadding: const EdgeInsets.fromLTRB(4, 0, 24, 0),
                     trailing: const Icon(Icons.arrow_forward_ios, color: Colors.white, size: 16),
                     onTap: () {
-                      launchUrl(Uri.parse('mailto:team@basedhardware.com'));
+                      launchUrl(Uri.parse('mailto:team@omi.me'));
                       MixpanelManager().supportContacted();
                     },
                   ),
@@ -317,11 +317,11 @@ class _SettingsPageState extends State<SettingsPage> {
                               Navigator.of(context).pop();
                             },
                             () async {
-                              // send email to team@basedhardware.com
-                              launchUrl(Uri.parse('mailto:team@basedhardware.com?subject=Delete%20My%20Account'));
+                              // send email to team@omi.me
+                              launchUrl(Uri.parse('mailto:team@omi.me?subject=Delete%20My%20Account'));
                             },
                             'Deleting Account?',
-                            'Please send us an email at team@basedhardware.com',
+                            'Please send us an email at team@omi.me',
                             okButtonText: 'Open Email',
                             singleButton: false,
                           );

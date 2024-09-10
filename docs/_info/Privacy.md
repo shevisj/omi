@@ -61,4 +61,4 @@ We reserve the right to modify this policy. Changes will be communicated transpa
 
 ## 8. Open Door Policy
 
-For any inquiries or concerns regarding our data practices or this policy, please feel free to contact us at [team@basedhardware.com](mailto:team@basedhardware.com).
+For any inquiries or concerns regarding our data practices or this policy, please feel free to contact us at [team@omi.me](mailto:team@omi.me).

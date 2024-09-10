@@ -14,8 +14,8 @@ export default function Footer() {
             className="h-auto w-[70px]"
           />
           <p className="mt-1 text-gray-500">Made in San Fransisco</p>
-          <a href={'mailto:team@basedhardware.com>'} className="hover:underline">
-            team@basedhardware.com
+          <a href={'mailto:team@omi.me>'} className="hover:underline">
+            team@omi.me
           </a>
           <div className="mt-3 flex items-center gap-3">
             <a
@@ -108,7 +108,7 @@ export default function Footer() {
             </li>
             <li>
               <a
-                href="https://affiliate.basedhardware.com/"
+                href="https://affiliate.omi.me/"
                 target={'_blank'}
                 rel={'noreferrer'}
                 className="text-zinc-400 hover:text-white hover:underline md:text-base"

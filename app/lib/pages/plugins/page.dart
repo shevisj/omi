@@ -41,7 +41,7 @@ class _PluginsPageState extends State<PluginsPage> {
           actions: [
             TextButton(
                 onPressed: () {
-                  launchUrl(Uri.parse('https://basedhardware.com/plugins'));
+                  launchUrl(Uri.parse('https://omi.me/plugins'));
                 },
                 child: const Row(
                   children: [

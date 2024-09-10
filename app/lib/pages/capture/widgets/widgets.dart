@@ -166,7 +166,7 @@ _getNoFriendConnectedYet(BuildContext context) {
               ),
               child: TextButton(
                   onPressed: () {
-                    launchUrl(Uri.parse('https://basedhardware.com'));
+                    launchUrl(Uri.parse('https://omi.me'));
                     MixpanelManager().getFriendClicked();
                   },
                   child: const Text(

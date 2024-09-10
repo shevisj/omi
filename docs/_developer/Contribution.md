@@ -13,7 +13,7 @@ To contribute:
 * create a Pull Request and specifiy which issue is it related to
 
 ## Docs Contribution
-Docs contributions are as important as code contributions! Our docs are located at [github docs folder](https://github.com/BasedHardware/Omi/tree/main/docs) and synced real-time with docs.basedhardware.com 
+Docs contributions are as important as code contributions! Our docs are located at [github docs folder](https://github.com/BasedHardware/Omi/tree/main/docs) and synced real-time with docs.omi.me 
 
 You can modify the docs directly from Github interface by Createing a fork => [clicking this icon](https://share.cleanshot.com/dkBSffGr) => click "preview" => create pull request  
 
@@ -29,7 +29,7 @@ You can get rewards by submitting approved PRs (significant contribution):
 * Either a new feature or a major bug
 * Quality code with explanation
 
-To receive the reward, please send an email to team@basedhardware.com with a list of your contributions, address, email and phone number
+To receive the reward, please send an email to team@omi.me with a list of your contributions, address, email and phone number
 
 # Paid [Bounties](https://github.com/BasedHardware/Omi/issues?q=is:open+is:issue+label:%22Paid+Bounty+%F0%9F%92%B0%22)
 Get paid to improve AI wearables!
@@ -41,7 +41,7 @@ Some of the tickets are paid bounties! You can check which ones, but filtering w
 * code must be merged into master branch
 * bounty eligibility is solely at our discretion
 * you can "lock" the bounty task, but only after your first pull request is merged.
-* send an email to team@basedhardware.com with a link to your bounty + paypal account to claim.
+* send an email to team@omi.me with a link to your bounty + paypal account to claim.
 
 ### What if there are no paid bounties available? 
 If there are no paid bounties available, you can suggest your own. Simply filter by [open issues](https://github.com/BasedHardware/Omi/issues?q=is:open+is:issue+) with no "bounty" label and suggest your own bounty while pinging @ josancamon19 or @kodjima33

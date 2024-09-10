@@ -79,7 +79,7 @@ class _FindDevicesPageState extends State<FindDevicesPage> {
             if (provider.deviceList.isEmpty && provider.enableInstructions) const SizedBox(height: 48),
             if (provider.deviceList.isEmpty && provider.enableInstructions)
               ElevatedButton(
-                onPressed: () => launchUrl(Uri.parse('mailto:team@basedhardware.com')),
+                onPressed: () => launchUrl(Uri.parse('mailto:team@omi.me')),
                 child: Container(
                   width: double.infinity,
                   height: 45,

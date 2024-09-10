@@ -9,4 +9,4 @@ During your conversation, the news checker will determine if there's bias or unt
 
 #### -
 
-> This is a experimental feature. It may not work as expected. If you have any feedback, please let us know at joan@basedhardware.com.
+> This is a experimental feature. It may not work as expected. If you have any feedback, please let us know at joan@omi.me.

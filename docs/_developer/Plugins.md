@@ -4,4 +4,4 @@ title: Plugins
 nav_order: 5
 ---
 
-We've moved! Go to https://basedhardware.com/plugins
+We've moved! Go to https://omi.me/plugins
